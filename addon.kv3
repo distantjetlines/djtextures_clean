@@ -1,0 +1,22 @@
+{
+	mod = "distantjetlines' Clean Texture Collection"
+	description = 
+"""
+A collection of PBR enabled testchamber textures
+"""
+	type = "Asset Pack"
+	id = 0
+	thumbnail = ""
+	authors = [  ]
+	dependencies = [  ]
+	tags = [  ]
+	ignore = [  ]
+	metadata =
+	{
+	}
+	assets =
+	{
+		logo = ""
+		cover = ""
+	}
+}
