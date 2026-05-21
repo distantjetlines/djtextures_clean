@@ -1,0 +1,17 @@
+PBR
+{
+$basetexture			"dj\glass\glass_basecolor"
+$basetexturetransform	"center 0 0 scale 1 1 rotate 0 translate 0 0"
+$bumpmap				"dj\glass\glass_normal"
+$bumptransform			"center 0 0 scale 1 1 rotate 0 translate 0 0"
+$mraotexture			"dj\glass\glass_mrao"
+$mraoscale              "[1.0 1.0 1.0]"
+
+$translucent			1
+
+$envmaplightscale		1
+$envmaptint 			0.5
+
+$reflectivity			"[ 0.8 0.8 0.8 ]" 
+$surfaceprop			glass
+}
