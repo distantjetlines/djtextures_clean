@@ -1,11 +1,11 @@
 PBR
 {
 $basetexture			"dj\testchamber\plastictrim_basecolor"
-$basetexturetransform	"center 0 0 scale 1 1 rotate 0 translate 0 0"
+$basetexturetransform	"center 0 0 scale 2 2 rotate 0 translate 0 0"
 $bumpmap				"dj\testchamber\plastictrim_normal"
-$bumptransform			"center 0 0 scale 1 1 rotate 0 translate 0 0"
+$bumptransform			"center 0 0 scale 2 2 rotate 0 translate 0 0"
 $mraotexture			"dj\testchamber\plastictrim_mrao"
-$mraoscale              "[1.0 1.0 1.0]"
+$mraoscale              "[1.0 1.0 2.0]"
 
 //$parallax               1
 //$parallaxcenter			0
