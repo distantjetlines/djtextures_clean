@@ -5,6 +5,8 @@ A collection of PBR enabled testchamber textures for Portal 2: Community Edition
 
 Provided in 512px/128u resolution for performance and to avoid harsh clashing with non-updated assets.
 
+Credit required if used.
+
 ### Textures included:
 * Black testchamber tiles
 * White Testchamber Tiles
